@@ -1,0 +1,20 @@
+#+title: Groupo Emacs México
+* Idea
+
+Éste repositorio está pensado para el grupo de Emacs México. La idea es compartir tanto código como
+presentaciones (o cualquier otro archivo relacionado con Emacs), que se presenten en el grupo de
+Emacs México.
+* Pull Requests
+Para subir algo al repositorio basta con hacer un pull request con el nuevo contenido. [[https://blog.desdelinux.net/tutorial-simple-primer-pr-pull-request/][Aquí]]
+encontrarás una simple guía de como hacer un pull request a cualquier repositorio de github.
+
+La estructura base del repositorio son tres directorios:
+
+ 1. codigo
+ 2. platica
+ 3. misc
+		
+Dónde pondremos código, presetación o cualquier otro archivo, respectivamente. También se puede
+agregar un directorio nuevo, si así lo deseas.
+* Dudas
+Cualquier comentario puedes escribir a rodgdor@gmail.com.
